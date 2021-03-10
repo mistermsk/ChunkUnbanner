@@ -1,0 +1,5 @@
+name: ChunkUnbanner
+version: 1.0.0
+main: com.x.cub.Main
+author: Player_X_YT
+description: Patches chunk banning by removing too many storage devices in various chunks
